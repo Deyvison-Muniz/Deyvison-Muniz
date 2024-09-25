@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Redes Sociais</h2>
+<h2 align="left">Social Midia</h2>
 
 ###
 
